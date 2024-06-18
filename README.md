@@ -1,6 +1,4 @@
-
-
- Multi-Dataset Image Classification with TensorFlow: MNIST, Fashion MNIST, and CIFAR-10
+#Multi-Dataset Image Classification with TensorFlow: MNIST, Fashion MNIST, and CIFAR-10
 
 
 
