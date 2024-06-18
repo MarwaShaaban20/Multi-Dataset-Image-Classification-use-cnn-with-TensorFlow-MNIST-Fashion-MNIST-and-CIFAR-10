@@ -1,6 +1,4 @@
-#Multi-Dataset Image Classification with TensorFlow: MNIST, Fashion MNIST, and CIFAR-10
-
-
+# Multi-Dataset Image Classification with TensorFlow: MNIST, Fashion MNIST, and CIFAR-10
 
 This repository demonstrates a deep learning implementation using TensorFlow to classify images from three popular datasets: MNIST, Fashion MNIST, and CIFAR-10. The code includes:
 
